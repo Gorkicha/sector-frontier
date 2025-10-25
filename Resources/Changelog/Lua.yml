@@ -2088,3 +2088,13 @@ Entries:
   id: 153
   time: '2025-10-25T09:19:58.0000000+00:00'
   url: https://github.com/Lua-Frontier/sector-frontier-14/pull/314
+- author: fox76055
+  changes:
+    - type: Tweak
+      message: >-
+        Lamaniel: новое название Lunar, вооружение заменено на 4 90mm и 2
+        dravon, удалён мед отдел с корабля, питание изменено с урана на
+        бананиум.
+  id: 154
+  time: '2025-10-25T09:27:45.0000000+00:00'
+  url: https://github.com/Lua-Frontier/sector-frontier-14/pull/317
