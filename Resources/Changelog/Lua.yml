@@ -2396,3 +2396,10 @@ Entries:
   id: 175
   time: '2025-11-07T16:51:53.0000000+00:00'
   url: https://github.com/Lua-Frontier/sector-frontier-14/pull/360
+- author: fox76055
+  changes:
+    - type: Add
+      message: Добавлены новые декали.
+  id: 176
+  time: '2025-11-07T17:07:20.0000000+00:00'
+  url: https://github.com/Lua-Frontier/sector-frontier-14/pull/362
