@@ -2316,3 +2316,38 @@ Entries:
   id: 171
   time: '2025-11-03T15:48:10.0000000+00:00'
   url: https://github.com/Lua-Frontier/sector-frontier-14/pull/353
+- author: HacksLua
+  changes:
+    - type: Fix
+      message: Исправлены ERROR в лобби
+    - type: Fix
+      message: Исправлен крафт Ампул
+    - type: Fix
+      message: Исправлено исследование УМЗД и компонентов
+    - type: Fix
+      message: Исправлен мультифаз X01
+    - type: Remove
+      message: Удалена пушка и джетпак(новый) у пиратов, рпг у СБ
+    - type: Fix
+      message: УМЗД и компоненты возвращены в протолат
+    - type: Fix
+      message: Обрез уменьшен 2х2
+    - type: Fix
+      message: Медфаб возвращен к заводским настройкам
+    - type: Fix
+      message: Химия возвращена к истокам визардов
+    - type: Remove
+      message: Удалены лишние техфабы из игры
+    - type: Fix
+      message: Иравлены рандом враги на экспедициях
+    - type: Fix
+      message: Исправлены магнитные ботинки
+    - type: Fix
+      message: Исправлен аргенти
+    - type: Fix
+      message: Исправлены иконки эмоутов
+    - type: Fix
+      message: Исправлен Десинхронизатор после БСС
+  id: 172
+  time: '2025-11-07T15:39:21.0000000+00:00'
+  url: https://github.com/Lua-Frontier/sector-frontier-14/pull/356
