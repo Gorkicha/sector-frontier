@@ -2548,3 +2548,10 @@ Entries:
   id: 188
   time: '2025-11-27T12:05:22.0000000+00:00'
   url: https://github.com/Lua-Frontier/sector-frontier-14/pull/380
+- author: LeptonComm
+  changes:
+    - type: Tweak
+      message: Респрайт скафандра волшебника (от Daedalus)
+  id: 189
+  time: '2025-11-27T13:07:10.0000000+00:00'
+  url: https://github.com/Lua-Frontier/sector-frontier-14/pull/381
