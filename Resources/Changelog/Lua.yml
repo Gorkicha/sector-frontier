@@ -2862,3 +2862,12 @@ Entries:
   id: 204
   time: '2025-12-18T09:24:14.0000000+00:00'
   url: https://github.com/Lua-Frontier/sector-frontier-14/pull/402
+- author: BrennNight
+  changes:
+    - type: Add
+      message: Добавлен новый параллакс! "Xmas"
+    - type: Fix
+      message: Исправлены швы и звёзды на параллаксах Asteroids и DarkLuaSpace
+  id: 205
+  time: '2025-12-18T09:25:57.0000000+00:00'
+  url: https://github.com/Lua-Frontier/sector-frontier-14/pull/406
