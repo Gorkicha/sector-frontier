@@ -24,7 +24,7 @@
     - Belt
   - type: Gun
     fireRate: 2
-    projectileSpeed: 25 #Lua 65 -> 25 Tickrate reason
+    projectileSpeed: 25 #Lua 65 -> 25
     availableModes:
     - SemiAuto
     soundGunshot:
@@ -52,4 +52,5 @@
   - type: Projectile
     damage:
       types:
-        Piercing: 40
+        Piercing: 20 #Lua -20
+        Blunt: 20 #Lua add
