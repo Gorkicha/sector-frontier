@@ -3143,3 +3143,10 @@ Entries:
   id: 222
   time: '2026-01-03T17:58:34.0000000+00:00'
   url: https://github.com/Lua-Frontier/sector-frontier-14/pull/414
+- author: fox76055
+  changes:
+    - type: Add
+      message: Добавлен душ. Можно мыться, или не мыться дальше и вонять.
+  id: 223
+  time: '2026-01-05T08:47:56.0000000+00:00'
+  url: https://github.com/Lua-Frontier/sector-frontier-14/pull/430
