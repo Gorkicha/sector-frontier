@@ -3206,3 +3206,20 @@ Entries:
   id: 226
   time: '2026-01-05T12:39:39.0000000+00:00'
   url: https://github.com/Lua-Frontier/sector-frontier-14/pull/435
+- author: fox76055
+  changes:
+    - type: Tweak
+      message: Полный рефактор аплинка пиратов.
+    - type: Tweak
+      message: >-
+        NT-WS LRC-21 PPL: Теперь имеет 2 выстрела, а также замедляет на 40%
+        владельца, и снижен урон на 45 единиц.
+    - type: Tweak
+      message: >-
+        kunisa-pattern plasma autopulser: Теперь необходимо держать в 2 руках
+        для стрельбы (Больше никаких Рембо с 2 пульсарами)
+    - type: Fix
+      message: 'Пустынный орёл: Теперь стреляет калибром 45 Magnum.'
+  id: 227
+  time: '2026-01-07T21:32:21.0000000+00:00'
+  url: https://github.com/Lua-Frontier/sector-frontier-14/pull/436
