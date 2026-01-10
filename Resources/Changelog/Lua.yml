@@ -3281,3 +3281,40 @@ Entries:
   id: 230
   time: '2026-01-10T17:33:18.0000000+00:00'
   url: https://github.com/Lua-Frontier/sector-frontier-14/pull/440
+- author: fox76055
+  changes:
+    - type: Add
+      message: >-
+        В аплинк нордфолла добавлены SKR-WS MLA-73 (6.35x40mm caseless) и VFD
+        PSW "Ratel" (7.62x51mm)
+    - type: Tweak
+      message: >-
+        Теперь всё огнестрельное оружие в аплинке нордфолла находится в Bundle
+        сетах.
+    - type: Tweak
+      message: Патроны в аплинке нордфолла теперь продаются за спессо.
+    - type: Remove
+      message: >-
+        с аплинка нордфолла удалены: перчатки Полярный звезды, подкрепление,
+        семена гатфрукта, перчатки боксёра, продвинутая циркулярная пила.
+    - type: Tweak
+      message: >-
+        TCA M27 Annie (7.62x39mm), VFD MR-8C DMR (8x65mm SKR) теперь доступны и
+        для рейнджеров в аплинке ДСБФ
+    - type: Tweak
+      message: >-
+        TCA M27 Annie (7.62x39mm), VFD MR-8C DMR (8x65mm SKR) цена в аплинке
+        ДСБФ понижена с 20 -> 18 и 25 -> 20
+    - type: Tweak
+      message: >-
+        Офицерская сабля в аплинке ДСБФ теперь доступна и для лейтенанта (Он же
+        ведь тоже входит в офицерский состав...)
+    - type: Tweak
+      message: >-
+        NTSF-LTR-556 (5.56x45mm,6.8x52mm Caseless) цена понижена до 5 ФК.
+        Пиратский аналог NCI AK-502 (7.62x39mm) тоже была удешевлена до 5 ДБ
+    - type: Tweak
+      message: NT-WS LRC-21 PPL цена понижена с 33 ФК до 27 ФК.
+  id: 231
+  time: '2026-01-10T17:34:20.0000000+00:00'
+  url: https://github.com/Lua-Frontier/sector-frontier-14/pull/443
